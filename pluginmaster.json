@@ -1,4 +1,5 @@
-[{
+[
+{
   "Author": "FCN",
   "Name": "FCNPlugin",
   "Punchline": "Generate Fortune Cookies or redeem Vouchers",
@@ -11,8 +12,9 @@
   "DownloadLinkInstall": "https://raw.githubusercontent.com/Solandus/FCNRepo/main/plugins/FCNPlugin/latest.zip",
   "DownloadLinkUpdate": "https://raw.githubusercontent.com/Solandus/FCNRepo/main/plugins/FCNPlugin/latest.zip",
   "DownloadCount": 0,
-  "LastUpdate": 1775940605,
+  "LastUpdate": 1775940882,
   "IsTestingExclusive": false,
   "IconUrl": "",
-  "Changelog": "Release v1.0.0.0_fix_b"
-}]
+  "Changelog": "Release v1.0.0.0_fix_c"
+}
+]
