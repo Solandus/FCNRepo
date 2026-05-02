@@ -5,16 +5,16 @@
   "Punchline": "Generate Fortune Cookies or redeem Vouchers",
   "Description": "FCN Plugin to generate Fortune Cookies or redeem Vouchers directly in game without the need to visit the FCN website. API token needed.",
   "InternalName": "FCNPlugin",
-  "AssemblyVersion": "1.0.0.1",
+  "AssemblyVersion": "1.0.0.2",
   "RepoUrl": "https://github.com/Solandus/FCNPlugin",
   "ApplicableVersion": "any",
-  "DalamudApiLevel": 14,
+  "DalamudApiLevel": 15,
   "DownloadLinkInstall": "https://raw.githubusercontent.com/Solandus/FCNRepo/main/plugins/FCNPlugin/latest.zip",
   "DownloadLinkUpdate": "https://raw.githubusercontent.com/Solandus/FCNRepo/main/plugins/FCNPlugin/latest.zip",
   "DownloadCount": 0,
-  "LastUpdate": 1775942084,
+  "LastUpdate": 1777697388,
   "IsTestingExclusive": false,
   "IconUrl": "",
-  "Changelog": "Release v1.0.0.1"
+  "Changelog": "- - Even more workflow optimization\n- - More workflow optimization\n- - Workflow optimization\n- - API 15 bump\n- - Updated release workflow\n- Add automated changelog generation from git commits to plugin repository workflow"
 }
 ]
